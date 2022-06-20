@@ -1,7 +1,5 @@
 # All_hack_tool
-# godeye
-
-How to install godeye
+How to install All_hack_tool
 
 apt update
 
@@ -11,9 +9,11 @@ apt install ruby
 
 apt install git
 
-git clone https://github.com/RED5PY/godeye
+git clone https://github.com/problems-arelifepartner/All_hack_tool
 
-cd godeye
+cd All_hack_tool
 
-ruby godeye.rb
+ruby All_hack_tool.rb
+
+# use it in your own risk
 
