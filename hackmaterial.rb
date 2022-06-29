@@ -9,24 +9,14 @@ system("clear")
 require 'colorize'
 puts "
 
-  m    m
- #    #
- #mmmm#
- #    #
- #    #    
-
+  m    m          mm            mmm         m    m
+ #    #          ##          m"   "        #  m"
+ #mmmm#         #  #         #             #m#
+ #    #         #mm#         #             #  #m
+ #    #        #    #         "mmm"        #   "m
  
  
- 
-
-
-
-
-
-
-    
-
-".red
+ ".red
 puts
 puts "                          [code by <MR|D3V1L>]".red
 puts
@@ -57,10 +47,24 @@ else
 
 puts "[Error ,please select a from the above the list "
 
- 
+ end
 
  
-end
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+    
+
 
 
 
