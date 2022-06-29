@@ -9,11 +9,15 @@ system("clear")
 require 'colorize'
 puts "
 
- mmmm      
- #   "m
+  m    m
  #    #
+ #mmmm#
  #    #
- #mmm"
+ #    #    
+
+ 
+ 
+ 
 
 
 
