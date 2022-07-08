@@ -24,7 +24,7 @@ def ban()
     puts"[1] instagram hack".green
     puts"[2] auto admin whatsapp".green
     puts"[3] number report".green
-    puts"[4] info ".green
+    puts"[4] google hack ".green
 end
 ban()
 puts
@@ -41,7 +41,7 @@ elsif $op == "3" then
    puts "starting number report".green
    system("ruby .uoykcuf.rb")
 elsif $op == "4" then
-   puts "information about this tool".green
+   puts "hacking google account".green
    system("ruby .uoykcuf.rb")
 else
 
